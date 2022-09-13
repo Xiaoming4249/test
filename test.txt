@@ -7,3 +7,4 @@ diercixiugai
 host github.com
     HostName github.com
     IdentityFile ~/.ssh/id_ed25519 
+    怎么回事？ 
