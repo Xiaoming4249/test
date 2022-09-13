@@ -4,3 +4,6 @@ diercixiugai
 再次测试，这是不设有密码密钥的测试
 去掉config文件测试
 再测试一次
+host github.com
+    HostName github.com
+    IdentityFile ~/.ssh/id_ed25519 
